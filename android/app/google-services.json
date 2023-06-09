@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836055725308",
+    "project_id": "blog-app-a73d2",
+    "storage_bucket": "blog-app-a73d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836055725308:android:78d8b464ee2975253c9379",
+        "android_client_info": {
+          "package_name": "com.moonlight.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836055725308-8mjkmpbe3si69tdehp8k21dlipisi70t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdOMshOrXM_HDC2-_yVaT6DHCwO7J2eto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836055725308-8mjkmpbe3si69tdehp8k21dlipisi70t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
